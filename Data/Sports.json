@@ -1,0 +1,1636 @@
+[
+  {
+    "id": "s001",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_group": "soccer",
+    "sport_title": "La Liga",
+    "commence_time": "2026-05-21T18:00:00Z",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Real Madrid",
+                "price": 2.1
+              },
+              {
+                "name": "Barcelona",
+                "price": 3.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s002",
+    "sport_key": "soccer_spain_la_liga",
+    "sport_group": "soccer",
+    "sport_title": "La Liga",
+    "commence_time": "2026-05-21T20:00:00Z",
+    "home_team": "Atletico Madrid",
+    "away_team": "Sevilla",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Atletico Madrid",
+                "price": 1.9
+              },
+              {
+                "name": "Sevilla",
+                "price": 4.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s003",
+    "sport_key": "soccer_epl",
+    "sport_group": "soccer",
+    "sport_title": "Premier League",
+    "commence_time": "2026-05-21T15:00:00Z",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Arsenal",
+                "price": 2.4
+              },
+              {
+                "name": "Chelsea",
+                "price": 2.9
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s004",
+    "sport_key": "soccer_epl",
+    "sport_group": "soccer",
+    "sport_title": "Premier League",
+    "commence_time": "2026-05-21T17:30:00Z",
+    "home_team": "Manchester City",
+    "away_team": "Liverpool",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Manchester City",
+                "price": 1.75
+              },
+              {
+                "name": "Liverpool",
+                "price": 4.5
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s005",
+    "sport_key": "soccer_peru_primera_division",
+    "sport_group": "soccer",
+    "sport_title": "Liga 1 Perú",
+    "commence_time": "2026-05-21T23:00:00Z",
+    "home_team": "Universitario",
+    "away_team": "Alianza Lima",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Universitario",
+                "price": 2.2
+              },
+              {
+                "name": "Alianza Lima",
+                "price": 3.1
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s006",
+    "sport_key": "soccer_peru_primera_division",
+    "sport_group": "soccer",
+    "sport_title": "Liga 1 Perú",
+    "commence_time": "2026-05-22T01:00:00Z",
+    "home_team": "Sporting Cristal",
+    "away_team": "Melgar",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Sporting Cristal",
+                "price": 1.95
+              },
+              {
+                "name": "Melgar",
+                "price": 3.8
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b001",
+    "sport_key": "basketball_nba",
+    "sport_group": "basketball",
+    "sport_title": "NBA",
+    "commence_time": "2026-05-21T22:00:00Z",
+    "home_team": "Boston Celtics",
+    "away_team": "Golden State Warriors",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Boston Celtics",
+                "price": 8.5
+              },
+              {
+                "name": "Golden State Warriors",
+                "price": 1.05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b002",
+    "sport_key": "basketball_nba",
+    "sport_group": "basketball",
+    "sport_title": "NBA",
+    "commence_time": "2026-05-21T23:30:00Z",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Miami Heat",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Los Angeles Lakers",
+                "price": 7.8
+              },
+              {
+                "name": "Miami Heat",
+                "price": 1.08
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b003",
+    "sport_key": "basketball_nba",
+    "sport_group": "basketball",
+    "sport_title": "NBA",
+    "commence_time": "2026-05-22T00:00:00Z",
+    "home_team": "Chicago Bulls",
+    "away_team": "Brooklyn Nets",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Chicago Bulls",
+                "price": 9.2
+              },
+              {
+                "name": "Brooklyn Nets",
+                "price": 1.04
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b004",
+    "sport_key": "basketball_nba",
+    "sport_group": "basketball",
+    "sport_title": "NBA",
+    "commence_time": "2026-05-22T01:00:00Z",
+    "home_team": "Denver Nuggets",
+    "away_team": "Phoenix Suns",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Denver Nuggets",
+                "price": 8.1
+              },
+              {
+                "name": "Phoenix Suns",
+                "price": 1.06
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b005",
+    "sport_key": "basketball_nba",
+    "sport_group": "basketball",
+    "sport_title": "NBA",
+    "commence_time": "2026-05-22T02:00:00Z",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Dallas Mavericks",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Milwaukee Bucks",
+                "price": 10.0
+              },
+              {
+                "name": "Dallas Mavericks",
+                "price": 1.03
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t001",
+    "sport_key": "tennis_atp_french_open",
+    "sport_group": "tennis",
+    "sport_title": "Roland Garros ATP",
+    "commence_time": "2026-05-21T10:00:00Z",
+    "home_team": "Carlos Alcaraz",
+    "away_team": "Novak Djokovic",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Carlos Alcaraz",
+                "price": 7.8
+              },
+              {
+                "name": "Novak Djokovic",
+                "price": 1.07
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t002",
+    "sport_key": "tennis_atp_french_open",
+    "sport_group": "tennis",
+    "sport_title": "Roland Garros ATP",
+    "commence_time": "2026-05-21T12:00:00Z",
+    "home_team": "Jannik Sinner",
+    "away_team": "Rafael Nadal",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Jannik Sinner",
+                "price": 9.0
+              },
+              {
+                "name": "Rafael Nadal",
+                "price": 1.05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t003",
+    "sport_key": "tennis_wta_french_open",
+    "sport_group": "tennis",
+    "sport_title": "Roland Garros WTA",
+    "commence_time": "2026-05-21T11:00:00Z",
+    "home_team": "Iga Swiatek",
+    "away_team": "Aryna Sabalenka",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Iga Swiatek",
+                "price": 8.2
+              },
+              {
+                "name": "Aryna Sabalenka",
+                "price": 1.06
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t004",
+    "sport_key": "tennis_atp_french_open",
+    "sport_group": "tennis",
+    "sport_title": "Roland Garros ATP",
+    "commence_time": "2026-05-21T14:00:00Z",
+    "home_team": "Daniil Medvedev",
+    "away_team": "Stefanos Tsitsipas",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Daniil Medvedev",
+                "price": 8.5
+              },
+              {
+                "name": "Stefanos Tsitsipas",
+                "price": 1.04
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t005",
+    "sport_key": "tennis_wta_french_open",
+    "sport_group": "tennis",
+    "sport_title": "Roland Garros WTA",
+    "commence_time": "2026-05-21T16:00:00Z",
+    "home_team": "Coco Gauff",
+    "away_team": "Elena Rybakina",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Coco Gauff",
+                "price": 7.9
+              },
+              {
+                "name": "Elena Rybakina",
+                "price": 1.08
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tt001",
+    "sport_key": "table_tennis_ittf",
+    "sport_group": "table_tennis",
+    "sport_title": "ITTF World Tour",
+    "commence_time": "2026-05-21T09:00:00Z",
+    "home_team": "Fan Zhendong",
+    "away_team": "Ma Long",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Fan Zhendong",
+                "price": 8.2
+              },
+              {
+                "name": "Ma Long",
+                "price": 1.06
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tt002",
+    "sport_key": "table_tennis_ittf",
+    "sport_group": "table_tennis",
+    "sport_title": "ITTF World Tour",
+    "commence_time": "2026-05-21T10:00:00Z",
+    "home_team": "Timo Boll",
+    "away_team": "Hugo Calderano",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Timo Boll",
+                "price": 9.0
+              },
+              {
+                "name": "Hugo Calderano",
+                "price": 1.04
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tt003",
+    "sport_key": "table_tennis_ittf",
+    "sport_group": "table_tennis",
+    "sport_title": "ITTF World Tour",
+    "commence_time": "2026-05-21T11:00:00Z",
+    "home_team": "Wang Chuqin",
+    "away_team": "Lin Gaoyuan",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Wang Chuqin",
+                "price": 7.8
+              },
+              {
+                "name": "Lin Gaoyuan",
+                "price": 1.07
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tt004",
+    "sport_key": "table_tennis_ittf",
+    "sport_group": "table_tennis",
+    "sport_title": "ITTF World Tour",
+    "commence_time": "2026-05-21T12:00:00Z",
+    "home_team": "Truls Moregard",
+    "away_team": "Darko Jorgic",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Truls Moregard",
+                "price": 8.8
+              },
+              {
+                "name": "Darko Jorgic",
+                "price": 1.05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tt005",
+    "sport_key": "table_tennis_ittf",
+    "sport_group": "table_tennis",
+    "sport_title": "ITTF World Tour",
+    "commence_time": "2026-05-21T13:00:00Z",
+    "home_team": "Tomokazu Harimoto",
+    "away_team": "Alexis Lebrun",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Tomokazu Harimoto",
+                "price": 9.5
+              },
+              {
+                "name": "Alexis Lebrun",
+                "price": 1.03
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h001",
+    "sport_key": "handball_ehf_champions_league",
+    "sport_group": "handball",
+    "sport_title": "EHF Champions League",
+    "commence_time": "2026-05-21T17:00:00Z",
+    "home_team": "Barcelona Handbol",
+    "away_team": "Kiel",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Barcelona Handbol",
+                "price": 9.2
+              },
+              {
+                "name": "Kiel",
+                "price": 1.06
+              },
+              {
+                "name": "Draw",
+                "price": 12.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h002",
+    "sport_key": "handball_ehf_champions_league",
+    "sport_group": "handball",
+    "sport_title": "EHF Champions League",
+    "commence_time": "2026-05-21T19:00:00Z",
+    "home_team": "Paris Saint-Germain HB",
+    "away_team": "Flensburg",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Paris Saint-Germain HB",
+                "price": 9.5
+              },
+              {
+                "name": "Flensburg",
+                "price": 1.05
+              },
+              {
+                "name": "Draw",
+                "price": 11.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h003",
+    "sport_key": "handball_ehf_champions_league",
+    "sport_group": "handball",
+    "sport_title": "EHF Champions League",
+    "commence_time": "2026-05-21T20:00:00Z",
+    "home_team": "Montpellier HB",
+    "away_team": "Aalborg",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Montpellier HB",
+                "price": 9.0
+              },
+              {
+                "name": "Aalborg",
+                "price": 1.07
+              },
+              {
+                "name": "Draw",
+                "price": 13.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h004",
+    "sport_key": "handball_world_championship",
+    "sport_group": "handball",
+    "sport_title": "Handball World Championship",
+    "commence_time": "2026-05-21T15:00:00Z",
+    "home_team": "France",
+    "away_team": "Denmark",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "France",
+                "price": 10.0
+              },
+              {
+                "name": "Denmark",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 14.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h005",
+    "sport_key": "handball_world_championship",
+    "sport_group": "handball",
+    "sport_title": "Handball World Championship",
+    "commence_time": "2026-05-21T16:30:00Z",
+    "home_team": "Spain",
+    "away_team": "Germany",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Spain",
+                "price": 8.9
+              },
+              {
+                "name": "Germany",
+                "price": 1.08
+              },
+              {
+                "name": "Draw",
+                "price": 12.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wp001",
+    "sport_key": "waterpolo_world_league",
+    "sport_group": "waterpolo",
+    "sport_title": "Water Polo World League",
+    "commence_time": "2026-05-21T14:00:00Z",
+    "home_team": "Croatia",
+    "away_team": "Serbia",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Croatia",
+                "price": 8.5
+              },
+              {
+                "name": "Serbia",
+                "price": 1.05
+              },
+              {
+                "name": "Draw",
+                "price": 10.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wp002",
+    "sport_key": "waterpolo_world_league",
+    "sport_group": "waterpolo",
+    "sport_title": "Water Polo World League",
+    "commence_time": "2026-05-21T16:00:00Z",
+    "home_team": "Hungary",
+    "away_team": "Italy",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Hungary",
+                "price": 8.2
+              },
+              {
+                "name": "Italy",
+                "price": 1.06
+              },
+              {
+                "name": "Draw",
+                "price": 10.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wp003",
+    "sport_key": "waterpolo_world_league",
+    "sport_group": "waterpolo",
+    "sport_title": "Water Polo World League",
+    "commence_time": "2026-05-21T18:00:00Z",
+    "home_team": "Spain",
+    "away_team": "Greece",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Spain",
+                "price": 9.0
+              },
+              {
+                "name": "Greece",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 11.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wp004",
+    "sport_key": "waterpolo_world_league",
+    "sport_group": "waterpolo",
+    "sport_title": "Water Polo World League",
+    "commence_time": "2026-05-21T20:00:00Z",
+    "home_team": "Montenegro",
+    "away_team": "USA",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Montenegro",
+                "price": 8.0
+              },
+              {
+                "name": "USA",
+                "price": 1.07
+              },
+              {
+                "name": "Draw",
+                "price": 10.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wp005",
+    "sport_key": "waterpolo_world_league",
+    "sport_group": "waterpolo",
+    "sport_title": "Water Polo World League",
+    "commence_time": "2026-05-21T22:00:00Z",
+    "home_team": "France",
+    "away_team": "Australia",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "France",
+                "price": 8.8
+              },
+              {
+                "name": "Australia",
+                "price": 1.05
+              },
+              {
+                "name": "Draw",
+                "price": 11.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bx001",
+    "sport_key": "boxing_world",
+    "sport_group": "boxing",
+    "sport_title": "Boxing World",
+    "commence_time": "2026-05-22T02:00:00Z",
+    "home_team": "Canelo Alvarez",
+    "away_team": "Terence Crawford",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Canelo Alvarez",
+                "price": 9.0
+              },
+              {
+                "name": "Terence Crawford",
+                "price": 1.06
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bx002",
+    "sport_key": "boxing_world",
+    "sport_group": "boxing",
+    "sport_title": "Boxing World",
+    "commence_time": "2026-05-22T03:00:00Z",
+    "home_team": "Anthony Joshua",
+    "away_team": "Deontay Wilder",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Anthony Joshua",
+                "price": 8.8
+              },
+              {
+                "name": "Deontay Wilder",
+                "price": 1.07
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bx003",
+    "sport_key": "boxing_world",
+    "sport_group": "boxing",
+    "sport_title": "Boxing World",
+    "commence_time": "2026-05-22T04:00:00Z",
+    "home_team": "Tyson Fury",
+    "away_team": "Oleksandr Usyk",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Tyson Fury",
+                "price": 9.5
+              },
+              {
+                "name": "Oleksandr Usyk",
+                "price": 1.05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bx004",
+    "sport_key": "boxing_world",
+    "sport_group": "boxing",
+    "sport_title": "Boxing World",
+    "commence_time": "2026-05-22T05:00:00Z",
+    "home_team": "Gervonta Davis",
+    "away_team": "Ryan Garcia",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Gervonta Davis",
+                "price": 10.0
+              },
+              {
+                "name": "Ryan Garcia",
+                "price": 1.04
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bx005",
+    "sport_key": "boxing_world",
+    "sport_group": "boxing",
+    "sport_title": "Boxing World",
+    "commence_time": "2026-05-22T06:00:00Z",
+    "home_team": "Errol Spence Jr",
+    "away_team": "Keith Thurman",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Errol Spence Jr",
+                "price": 9.2
+              },
+              {
+                "name": "Keith Thurman",
+                "price": 1.06
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "v001",
+    "sport_key": "volleyball_world_league",
+    "sport_group": "volleyball",
+    "sport_title": "Volleyball World League",
+    "commence_time": "2026-05-21T15:00:00Z",
+    "home_team": "Brazil",
+    "away_team": "Poland",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Brazil",
+                "price": 7.6
+              },
+              {
+                "name": "Poland",
+                "price": 1.08
+              },
+              {
+                "name": "Draw",
+                "price": 11.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "v002",
+    "sport_key": "volleyball_world_league",
+    "sport_group": "volleyball",
+    "sport_title": "Volleyball World League",
+    "commence_time": "2026-05-21T17:00:00Z",
+    "home_team": "France",
+    "away_team": "Russia",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "France",
+                "price": 8.1
+              },
+              {
+                "name": "Russia",
+                "price": 1.06
+              },
+              {
+                "name": "Draw",
+                "price": 10.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "v003",
+    "sport_key": "volleyball_world_league",
+    "sport_group": "volleyball",
+    "sport_title": "Volleyball World League",
+    "commence_time": "2026-05-21T19:00:00Z",
+    "home_team": "Italy",
+    "away_team": "USA",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Italy",
+                "price": 8.5
+              },
+              {
+                "name": "USA",
+                "price": 1.05
+              },
+              {
+                "name": "Draw",
+                "price": 10.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "v004",
+    "sport_key": "volleyball_world_league",
+    "sport_group": "volleyball",
+    "sport_title": "Volleyball World League",
+    "commence_time": "2026-05-21T21:00:00Z",
+    "home_team": "Argentina",
+    "away_team": "Serbia",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Argentina",
+                "price": 9.0
+              },
+              {
+                "name": "Serbia",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 11.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "v005",
+    "sport_key": "volleyball_world_league",
+    "sport_group": "volleyball",
+    "sport_title": "Volleyball World League",
+    "commence_time": "2026-05-22T00:00:00Z",
+    "home_team": "Japan",
+    "away_team": "Canada",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Japan",
+                "price": 7.8
+              },
+              {
+                "name": "Canada",
+                "price": 1.07
+              },
+              {
+                "name": "Draw",
+                "price": 10.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f001",
+    "sport_key": "futsal_world_cup",
+    "sport_group": "futsal",
+    "sport_title": "Futsal World Cup",
+    "commence_time": "2026-05-21T19:00:00Z",
+    "home_team": "Brazil",
+    "away_team": "Spain",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Brazil",
+                "price": 9.5
+              },
+              {
+                "name": "Spain",
+                "price": 1.06
+              },
+              {
+                "name": "Draw",
+                "price": 10.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f002",
+    "sport_key": "futsal_world_cup",
+    "sport_group": "futsal",
+    "sport_title": "Futsal World Cup",
+    "commence_time": "2026-05-21T21:00:00Z",
+    "home_team": "Argentina",
+    "away_team": "Portugal",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Argentina",
+                "price": 9.0
+              },
+              {
+                "name": "Portugal",
+                "price": 1.07
+              },
+              {
+                "name": "Draw",
+                "price": 10.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f003",
+    "sport_key": "futsal_world_cup",
+    "sport_group": "futsal",
+    "sport_title": "Futsal World Cup",
+    "commence_time": "2026-05-21T23:00:00Z",
+    "home_team": "Russia",
+    "away_team": "Italy",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Russia",
+                "price": 10.0
+              },
+              {
+                "name": "Italy",
+                "price": 1.05
+              },
+              {
+                "name": "Draw",
+                "price": 11.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f004",
+    "sport_key": "futsal_world_cup",
+    "sport_group": "futsal",
+    "sport_title": "Futsal World Cup",
+    "commence_time": "2026-05-22T01:00:00Z",
+    "home_team": "Iran",
+    "away_team": "Kazakhstan",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Iran",
+                "price": 9.2
+              },
+              {
+                "name": "Kazakhstan",
+                "price": 1.08
+              },
+              {
+                "name": "Draw",
+                "price": 10.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f005",
+    "sport_key": "futsal_world_cup",
+    "sport_group": "futsal",
+    "sport_title": "Futsal World Cup",
+    "commence_time": "2026-05-22T03:00:00Z",
+    "home_team": "Colombia",
+    "away_team": "Ukraine",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Colombia",
+                "price": 9.8
+              },
+              {
+                "name": "Ukraine",
+                "price": 1.04
+              },
+              {
+                "name": "Draw",
+                "price": 12.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lol001",
+    "sport_key": "esports_lol",
+    "sport_group": "esports",
+    "sport_title": "League of Legends LEC",
+    "commence_time": "2026-05-21T13:00:00Z",
+    "home_team": "G2 Esports",
+    "away_team": "Fnatic",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "G2 Esports",
+                "price": 8.0
+              },
+              {
+                "name": "Fnatic",
+                "price": 1.06
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lol002",
+    "sport_key": "esports_lol",
+    "sport_group": "esports",
+    "sport_title": "League of Legends LEC",
+    "commence_time": "2026-05-21T15:00:00Z",
+    "home_team": "Team Vitality",
+    "away_team": "MAD Lions",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Team Vitality",
+                "price": 7.8
+              },
+              {
+                "name": "MAD Lions",
+                "price": 1.07
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lol003",
+    "sport_key": "esports_lol",
+    "sport_group": "esports",
+    "sport_title": "League of Legends LCS",
+    "commence_time": "2026-05-21T17:00:00Z",
+    "home_team": "Cloud9",
+    "away_team": "Team Liquid",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Cloud9",
+                "price": 9.0
+              },
+              {
+                "name": "Team Liquid",
+                "price": 1.05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lol004",
+    "sport_key": "esports_lol",
+    "sport_group": "esports",
+    "sport_title": "League of Legends LCK",
+    "commence_time": "2026-05-21T08:00:00Z",
+    "home_team": "T1",
+    "away_team": "Gen.G",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "T1",
+                "price": 8.5
+              },
+              {
+                "name": "Gen.G",
+                "price": 1.06
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lol005",
+    "sport_key": "esports_lol",
+    "sport_group": "esports",
+    "sport_title": "League of Legends LPL",
+    "commence_time": "2026-05-21T10:00:00Z",
+    "home_team": "JDG",
+    "away_team": "BLG",
+    "bookmakers": [
+      {
+        "key": "bet365",
+        "title": "Bet365",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "JDG",
+                "price": 9.2
+              },
+              {
+                "name": "BLG",
+                "price": 1.04
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+    ]
