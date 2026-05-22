@@ -11,7 +11,7 @@ app.use(express.json());
 // Load data once at startup
 let DATA = [];
 try {
-  DATA = require('./data/sports.json');
+  DATA = require('./Data/sports.json');
   console.log('Loaded', DATA.length, 'games');
 } catch(e) {
   console.error('Error loading sports.json:', e.message);
