@@ -28,9 +28,9 @@ app.get('/debug', (req, res) => {
 // Load data
 let DATA = [];
 const attempts = [
-  './Data/sports.json',
-  './data/sports.json',
+  path.join(__dirname, 'Data', 'Sports.json'),
   path.join(__dirname, 'Data', 'sports.json'),
+  path.join(__dirname, 'data', 'Sports.json'),
   path.join(__dirname, 'data', 'sports.json')
 ];
 for (const p of attempts) {
