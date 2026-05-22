@@ -9,23 +9,6 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 app.use(express.json());
 
-// Debug: show directory structure
-app.get('/debug', (req, res) => {
-  const root = __dirname;
-  let result = { root, files: [] };
-  try {
-    result.files = fs.readdirSync(root);
-    result.files.forEach((f, i) => {
-      try {
-        const sub = fs.readdirSync(path.join(root, f));
-        result.files[i] = f + '/ -> ' + sub.join(', ');
-      } catch(e) {}
-    });
-  } catch(e) { result.error = e.message; }
-  res.json(result);
-});
-
-// Load data
 let DATA = [];
 const attempts = [
   path.join(__dirname, 'Data', 'Sports.json'),
@@ -49,7 +32,7 @@ app.get('/v4/sports', (req, res) => {
   DATA.forEach(g => {
     if (!seen[g.sport_key]) {
       seen[g.sport_key] = true;
-      sports.push({ key: g.sport_key, group: g.sport_group, title: g.sport_title, description: g.sport_title, active: true, has_outrights: false });
+      sports.push({key:g.sport_key,group:g.sport_group,title:g.sport_title,description:g.sport_title,active:true,has_outrights:false});
     }
   });
   res.json(sports);
